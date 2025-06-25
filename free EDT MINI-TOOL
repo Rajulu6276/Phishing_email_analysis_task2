@@ -1,0 +1,43 @@
+# Phishing Email Analysis: "Free EDT Mini-Tool"  
+**Date:** [25/06/2025]  
+
+---
+
+## 📧 Email Sample  
+**Subject:** "Dear Survivalist, Claim Your Free EDT Mini-Tool!"  
+**From:** (No sender address provided)  
+
+---
+
+## 🔎 Phishing Indicators  
+
+| **Indicator**            | **Example**                                | **Risk Level** |  
+|--------------------------|--------------------------------------------|----------------|  
+| Urgent/scarcity language | "Claim now, limited stock!"                | High           |  
+| Deceptive links          | "Click here" → `free-survival-tools[.]biz` | Critical       |  
+| "100% free" lure         | Requests feedback (data collection)        | Medium         |  
+| Poor formatting          | Excessive ellipses (...)                   | Low            |  
+
+---
+
+## 🛡️ Recommendations  
+
+- ❌ **Do NOT click links** in unsolicited emails.  
+- 📧 **Forward phishing emails** to `report@phishing.gov`.  
+- 🔗 **Verify offers** directly on official brand websites.  
+- 🧠 Always **check the sender and URL** before interacting.  
+
+---
+
+## 🕵️ Tools Used  
+
+- **URL Scanner:** [VirusTotal](https://www.virustotal.com/)  
+- **Header Analyzer:** [MxToolbox](https://mxtoolbox.com/)  
+- **Text Scraper:** Used to extract body from `.eml` file  
+
+---
+
+## 📝 Summary  
+
+This phishing email attempts to **entice recipients** with a “free survival tool” offer. The use of urgency, an untrusted domain, and hidden intent (likely data collection or malware) marks it as **malicious**. It is an example of a **classic promotional phishing attack** aimed at exploiting curiosity and survivalist interests.
+
